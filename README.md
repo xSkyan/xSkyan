@@ -34,7 +34,7 @@ A computer science engineer with experience as a mobile/software application dev
 <br />
 
 <div align="center">
-<img src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/IMG_20180523_101655_Bokeh.jpg" >
+<img src="" >
  <p> *** My Setup *** </p>
  </div>
 
