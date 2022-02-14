@@ -23,5 +23,5 @@ A computer science engineer with experience as a mobile/software application dev
 <div align="center">
 
 <div align="center">
-<img src="https://lh3.googleusercontent.com/-XQRd2dW541s/W4qBUlVNnsI/AAAAAAAFaeQ/bSyUE5iffts9Mn2JBqQnqWdGKB1RKI1XgCHMYCw/s1600/A98.gif" >
+<img src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/bottom_bar.gif" >
 </div>
