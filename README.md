@@ -21,9 +21,6 @@ A computer science engineer with experience as a mobile/software application dev
 </p>
 
 <div align="center">
-<img src="" >
- <p> *** My Setup *** </p>
- </div>
 
 <div align="center">
 <img src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/bottom_bar.gif" >
