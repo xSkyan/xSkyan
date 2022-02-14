@@ -2,21 +2,6 @@
 
 <div align="center">
 <img src="" >
- 
-### Hi there, I'm [Karthik Mohan!](https://karthikmohan.github.io/) 👋.
-
-<br />
- <a href="https://www.linkedin.com/in/karthik-mohan-/">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg">
-</a>
-<a href="https://www.reddit.com/user/MasterPrestigeNuts/">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/reddit.svg">
-</a>
-<a href="https://steamcommunity.com/id/ozias/">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg">
-</a>
-
-</div>
 
 ### Hi <img src="" width="25px">,
 ### I'm a 26 year old Software/Mobile Application Developer from Tamil Nadu, India.
