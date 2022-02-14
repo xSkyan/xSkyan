@@ -1,7 +1,7 @@
 <br />
 
 <div align="center">
-<img src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/and.jpg" >
+<img src="" >
  
 ### Hi there, I'm [Karthik Mohan!](https://karthikmohan.github.io/) 👋.
 
