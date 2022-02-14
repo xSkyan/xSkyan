@@ -18,7 +18,7 @@
 
 </div>
 
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,
+### Hi <img src="" width="25px">,
 ### I'm a 26 year old Software/Mobile Application Developer from Tamil Nadu, India.
 
 A computer science engineer with experience as a mobile/software application developer and information security researcher in various companies and institutes 👨🏾‍💻. Interested in building utility resources to make life simpler. I'm fascinated by modern and evolving technology.
