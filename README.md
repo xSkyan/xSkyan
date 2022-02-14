@@ -3,7 +3,7 @@
 <div align="center">
 
 ### Hi,
-### I'm a 26 year old Software/Mobile Application Developer from Tamil Nadu, India.
+### I'm a 16 year old - Developer from Medellín, Colombia.
 
 A computer science engineer with experience as a mobile/software application developer and information security researcher in various companies and institutes 👨🏾‍💻. Interested in building utility resources to make life simpler. I'm fascinated by modern and evolving technology.
 
