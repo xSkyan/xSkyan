@@ -3,7 +3,7 @@
 <div align="center">
 
 ### Hi,
-### I'm a 16 year old - Developer from Medellín, Colombia.
+### I'm Skyan - Developer from Medellín, Colombia.
   
 - Coming Soon...  
 
