@@ -17,5 +17,5 @@
 <div align="center">
 
 <div align="center">
-<img src="https://github.com/karthikmohan/karthikmohan/blob/master/Images/bottom_bar.gif" >
+<img src="https://cdn.discordapp.com/attachments/1002266468865544262/1040655333946818591/bottom_bar.gif" >
 </div>
